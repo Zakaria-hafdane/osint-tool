@@ -1,0 +1,23 @@
+{
+  "username": "abderahman hafdane",
+  "queries": {
+    "\"abderahman hafdane\"": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22abderahman+hafdane%22&num=15 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))"
+    ],
+    "intitle:abderahman hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=intitle:abderahman+hafdane&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B04D31C0D0>, 'Connection to 194.219.134.234 timed out. (connect timeout=10)')))"
+    ],
+    "inurl:abderahman hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=inurl:abderahman+hafdane&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B04D31DF50>, 'Connection to 103.47.93.232 timed out. (connect timeout=10)')))"
+    ],
+    "\"abderahman hafdane\" profile": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22abderahman+hafdane%22+profile&num=15 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))"
+    ],
+    "\"abderahman hafdane\" user": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=10)"
+    ],
+    "\"abderahman hafdane\" account": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22abderahman+hafdane%22+account&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B04D31C710>, 'Connection to 50.122.86.118 timed out. (connect timeout=10)')))"
+    ]
+  }
+}

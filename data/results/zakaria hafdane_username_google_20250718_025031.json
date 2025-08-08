@@ -1,0 +1,23 @@
+{
+  "username": "zakaria hafdane",
+  "queries": {
+    "\"zakaria hafdane\"": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=10)"
+    ],
+    "intitle:zakaria hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=intitle:zakaria+hafdane&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002E0DF66CED0>, 'Connection to 152.26.229.52 timed out. (connect timeout=10)')))"
+    ],
+    "inurl:zakaria hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=10)"
+    ],
+    "\"zakaria hafdane\" profile": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria+hafdane%22+profile&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002E0DF66E690>, 'Connection to 103.173.230.217 timed out. (connect timeout=10)')))"
+    ],
+    "\"zakaria hafdane\" user": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria+hafdane%22+user&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002E0DF66D050>, 'Connection to 103.173.230.217 timed out. (connect timeout=10)')))"
+    ],
+    "\"zakaria hafdane\" account": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=10)"
+    ]
+  }
+}

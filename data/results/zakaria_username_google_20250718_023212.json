@@ -1,0 +1,23 @@
+{
+  "username": "zakaria",
+  "queries": {
+    "\"zakaria\"": [
+      "\u274c No results found."
+    ],
+    "intitle:zakaria": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Read timed out. (read timeout=10)"
+    ],
+    "inurl:zakaria": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=inurl:zakaria&num=15 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 500 Internal Server Error')))"
+    ],
+    "\"zakaria\" profile": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria%22+profile&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002590B83DCD0>, 'Connection to 8.220.204.92 timed out. (connect timeout=10)')))"
+    ],
+    "\"zakaria\" user": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria%22+user&num=15 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))"
+    ],
+    "\"zakaria\" account": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria%22+account&num=15 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1006)')))"
+    ]
+  }
+}

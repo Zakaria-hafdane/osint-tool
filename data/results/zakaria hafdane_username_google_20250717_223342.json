@@ -1,0 +1,82 @@
+{
+  "username": "zakaria hafdane",
+  "queries": {
+    "site:instagram.com inurl:zakaria hafdane": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "site:twitter.com inurl:zakaria hafdane": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "site:github.com inurl:zakaria hafdane": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "site:youtube.com inurl:zakaria hafdane": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "\"zakaria hafdane\"": [
+      "Error: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522zakaria%2Bhafdane%2522%26num%3D-33%26hl%3Den%26start%3D50%26safe%3Dactive&hl=en&q=EgRmYcLgGLPY5cMGIjAJQwiNsnmUpQNDrDaCVTGuzqx5RXZYbVtjZYCHti1Oj_oaS42a02d9DGjtqEOhB5AyAnJSWgFD"
+    ],
+    "intitle:zakaria hafdane": [
+      "Error: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dintitle%253Azakaria%2Bhafdane%26num%3D17%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgRmYcLgGLTY5cMGIjDxo2KInLMbrboUyeWh8cHWi2Inz3I4W400cVmPIStZ1KZQdFq2NHDaX5FYhLKnB8oyAnJSWgFD"
+    ],
+    "inurl:zakaria hafdane": [
+      "Error: 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dinurl%253Azakaria%2Bhafdane%26num%3D17%26hl%3Den%26start%3D0%26safe%3Dactive&hl=en&q=EgRmYcLgGLbY5cMGIjD4wfHpTnR1cpaxQjlAKcfTpOQwyKGuiw52R9NL6AvI8KU8yGd5v9_YiFfXztnmJ4kyAnJSWgFD"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "username": "zakaria hafdane",
+  "queries": {
+    "\"zakaria hafdane\"": [
+      "\u274c No results found."
+    ],
+    "intitle:zakaria hafdane": [
+      "\u274c No results found."
+    ],
+    "inurl:zakaria hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=inurl:zakaria+hafdane&num=15 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000021413D0F990>, 'Connection to 190.85.43.6 timed out. (connect timeout=10)')))"
+    ],
+    "\"zakaria hafdane\" profile": [
+      "\u274c No results found."
+    ],
+    "\"zakaria hafdane\" user": [
+      "\u274c No results found."
+    ],
+    "\"zakaria hafdane\" account": [
+      "\u274c No results found."
+    ]
+  }
+}

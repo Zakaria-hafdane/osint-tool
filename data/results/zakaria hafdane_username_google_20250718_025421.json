@@ -1,0 +1,23 @@
+{
+  "username": "zakaria hafdane",
+  "queries": {
+    "\"zakaria hafdane\"": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria+hafdane%22&num=15 (Caused by ProxyError('Unable to connect to proxy', NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001F5ADEBE790>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)\")))"
+    ],
+    "intitle:zakaria hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=intitle:zakaria+hafdane&num=15 (Caused by ProxyError('Unable to connect to proxy', NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001F5AF11CC10>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)\")))"
+    ],
+    "inurl:zakaria hafdane": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=inurl:zakaria+hafdane&num=15 (Caused by ProxyError('Unable to connect to proxy', NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001F5AF11F2D0>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)\")))"
+    ],
+    "\"zakaria hafdane\" profile": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria+hafdane%22+profile&num=15 (Caused by ProxyError('Unable to connect to proxy', NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001F5AF11F310>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)\")))"
+    ],
+    "\"zakaria hafdane\" user": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria+hafdane%22+user&num=15 (Caused by ProxyError('Unable to connect to proxy', NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001F5AF11D410>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)\")))"
+    ],
+    "\"zakaria hafdane\" account": [
+      "Error: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22zakaria+hafdane%22+account&num=15 (Caused by ProxyError('Unable to connect to proxy', NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001F5ADEBF150>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)\")))"
+    ]
+  }
+}
